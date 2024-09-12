@@ -49,5 +49,10 @@ You can use the link below for Hugging Face or you can download the script.
 ## Performance Tips
 - If there is a slowdown in translation, you can use cloud computing services or GPUs to speed up performance.
 
+- ## Tutorial Video
+
+A tutorial video demonstrating the project is available in the `downloads` folder. You can find it as `Project.mp4` for a detailed walkthrough on how to use this text-translation interface.
+
+
 ## Demo
 You can try out the project live on Hugging Face Spaces: [Demo on Hugging Face](https://huggingface.co/spaces/Yaz1-e/Project_1).
