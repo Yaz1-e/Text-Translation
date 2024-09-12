@@ -50,4 +50,4 @@ You can use the link below for Hugging Face or you can download the script.
 - If there is a slowdown in translation, you can use cloud computing services or GPUs to speed up performance.
 
 ## Demo
-You can try out the project live on Hugging Face Spaces: [Demo on Hugging Face](#).
+You can try out the project live on Hugging Face Spaces: [Demo on Hugging Face](https://huggingface.co/spaces/Yaz1-e/Project_1).
